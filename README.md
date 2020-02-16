@@ -39,7 +39,7 @@ dad.Prototype.Name = "Josh";
 daughter.Name = "Hadassah";
 
 Console.Write(dad.Name); // "Josh"
-Console.Write(son.Name); // "Josh"
+Console.Write(son.Name); // "undefined"
 Console.Write(daughter.Name); // "Hadassah"
 ```
 
